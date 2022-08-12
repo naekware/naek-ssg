@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    max-width: 780px;
+    margin: auto;
+    padding: 0 10px;
+    background-color: #111111;
+    color: #E9FFF9;
+    padding-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #D64045;
+    transition-duration: 0.2s;
+}
+
+a:hover {
+    color: #279AF1;
+}
+
+li {
+    list-style-position: inside;
+}
+
+hr {
+    height: 3px;
+    background-color: #E9FFF9;
+    border: none;
+}
+
+ul {
+    padding-left: 15px;
+}

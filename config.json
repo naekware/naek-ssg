@@ -1,0 +1,6 @@
+{
+    "css_file": "./site_files/index.css",
+    "base_template": "./site_files/template.html",
+    "markdown_folder": "./site_files/pages",
+    "output_folder": "./static"
+}
