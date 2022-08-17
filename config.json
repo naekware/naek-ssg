@@ -9,6 +9,11 @@
             "name": "experience",
             "md_file": "./site_files/pages/experience.md",
             "html_file": "experience.html"
+        },
+        {
+            "name": "education",
+            "md_file": "./site_files/pages/education.md",
+            "html_file": "education.html"
         }
     ],
     "links": [
@@ -19,6 +24,10 @@
         {
             "url": "./experience.html",
             "name": "experience"
+        },
+        {
+            "url": "./education.html",
+            "name": "education"
         }
     ],
     "base_template": "./site_files/template.html",
