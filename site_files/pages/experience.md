@@ -11,7 +11,7 @@
 ## carleton university
 ### python teaching assistant
 - september 2022 - december 2022
-- assisted in teaching students python with pygame
+- assisted in teaching students python with pygame and hosted small lectures
 - tech stack:
     - python (pygame)
 

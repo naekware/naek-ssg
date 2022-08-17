@@ -1,6 +1,27 @@
 {
-    "css_file": "./site_files/index.css",
+    "markdown_files": [
+        {
+            "name": "home",
+            "md_file": "./site_files/pages/index.md",
+            "html_file": "index.html"
+        },
+        {
+            "name": "experience",
+            "md_file": "./site_files/pages/experience.md",
+            "html_file": "experience.html"
+        }
+    ],
+    "links": [
+        {
+            "url": "./index.html",
+            "name": "home"
+        },
+        {
+            "url": "./experience.html",
+            "name": "experience"
+        }
+    ],
     "base_template": "./site_files/template.html",
-    "markdown_folder": "./site_files/pages",
+    "css_file": "./site_files/index.css",
     "output_folder": "./static"
 }
